@@ -26,4 +26,3 @@ It was an assignment written in PHP, Ajax, and MySQL.
 
 ## Login Page
 <img width="1800" alt="Screenshot 2024-08-22 at 11 43 22 PM" src="https://github.com/user-attachments/assets/d4505346-e561-47e8-95ba-d895d5133bfa">
-width=30% height=30%
