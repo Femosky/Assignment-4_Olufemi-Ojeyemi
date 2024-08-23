@@ -1,16 +1,16 @@
-# To run the app
+# Gift Card eCommerce App
+
+This app was an assignment to make orders on the frontend, which data will be submitted and handled by the backend (PHP) and then the database will be store and retrieved from the database.
+
+It was an assignment written in PHP, Ajax, and MySQL.
+
+## To run the app
 
 - Install Xampp
 - Configure the config file path to where the project folder is in your device
 - Start the "Apache" and "MySQL" servers
 - Import "database.sql" in phpmyadmin or run the sql file
 - type and enter "localhost" in your browser url bar
-
-## Screenshots of the App
-
-This app was an assignment to make orders on the frontend, which data will be submitted and handled by the backend (PHP) and then the database will be store and retrieved from the database.
-
-It was an assignment written in PHP, Ajax, and MySQL.
 
 ## Homepage - Make Order
 <img width="1800" alt="Screenshot 2024-08-22 at 11 40 55 PM" src="https://github.com/user-attachments/assets/9255cc01-fe57-40a6-8120-7ffde1134e49">
